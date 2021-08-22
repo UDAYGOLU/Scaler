@@ -8,11 +8,9 @@ Problem Constraints
 1 <= |A| <= 100000
 1 <= A[i] <= 1000000000
 
-Input Format
-The only argument given is the integer array A.
+Input Format: The only argument given is the integer array A.
 
-Output Format
-Return the area of largest rectangle in the histogram.
+Output Format: Return the area of largest rectangle in the histogram.
 
 Example Input
 Input 1:   A = [2, 1, 5, 6, 2, 3]
